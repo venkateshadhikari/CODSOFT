@@ -1,0 +1,87 @@
+body {
+    background-image: url("bgimg.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #09320f;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+}
+
+.intro {
+    text-align: center;
+}
+
+.intro h1 {
+    font-size: 3em;
+    margin: 0;
+    color: #f00a0a;
+}
+
+.intro h1 span {
+    color: orange;
+}
+
+.intro h2 {
+    font-size: 2em;
+    color: #07f45e;
+}
+
+.intro p {
+    font-size: 1.2em;
+    color: #fbff05;
+    max-width: 600px;
+    margin: 10px auto;
+}
+
+.buttons {
+    margin: 20px 0;
+    border-radius: 50px;
+}
+
+.buttons a {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+
+.buttons a.CV{
+    background-color: orange;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 180px;
+    height: 220px;
+    object-fit: right;
+    margin-top: 10px;
+    
+}
