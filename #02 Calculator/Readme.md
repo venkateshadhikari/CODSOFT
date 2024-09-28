@@ -8,9 +8,9 @@ A simple, efficient, and user-friendly basic calculator app built with HTML, CSS
 - Percentage calculations.
 - Decimal point for precise calculations.
 
-## Demo
+## screenshot
 
-Check out the live demo [here](https://venka/Desktop/%2302Calculator/index.html).
+Check out the live demo [here](https://venka/Desktop/%2302Calculator/).
 
 ## How to Use
 
