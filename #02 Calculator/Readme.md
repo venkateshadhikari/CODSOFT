@@ -10,7 +10,9 @@ A simple, efficient, and user-friendly basic calculator app built with HTML, CSS
 
 ## screenshot
 
-Check out the live demo [here](https://venkateshadhikari.github.io/CODSOFT/#02Calculator).
+<img width="953" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/8610f0c4-0b11-4973-a244-53375d6d8890">
+
+
 
 ## How to Use
 
