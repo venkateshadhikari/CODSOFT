@@ -5,18 +5,8 @@
 ## Table of Contents
 
 **Landing Page**
-
-- [Task 1](https://github.com/venkateshadhikari/CODSOFT/main/LandingPage)
-
 **Calculator**
-
-- [Task 2](https://github.com/venkateshadhikari/CODSOFT/main/#02Calculator)
-
 **Portfolio**
-
-- [Task 3](https://github.com/venkateshadhikari/CODSOFT/main/Portfolio)
-
----
 
 ## License
 
