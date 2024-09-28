@@ -6,7 +6,7 @@ This repository contains the code for a portfolio website that showcases various
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [Screenshot]_(#Screenshot)
+- [Screenshot](#Screenshot)
 - [License](#license)
 
 ## Introduction
