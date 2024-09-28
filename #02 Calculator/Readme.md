@@ -10,7 +10,7 @@ A simple, efficient, and user-friendly basic calculator app built with HTML, CSS
 
 ## screenshot
 
-Check out the live demo [here](https://venka/Desktop/%2302Calculator/).
+Check out the live demo [here](https://venkateshadhikari.github.io/CODSOFT/#02Calculator).
 
 ## How to Use
 
