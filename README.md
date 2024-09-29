@@ -13,5 +13,3 @@
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code as long as you include the original copyright and disclaimers. Refer to the LICENSE file for more details.
-
-**[⬆ Back to Top](#table-of-contents)**
